@@ -9,11 +9,6 @@ Based on [Sustain](https://github.com/jekyller/sustain) theme.
 [Sumit Murari](https://github.com/murarisumit), November 2015
 
 
-## Thanks
-
-Profile picture from [pexels](https://www.pexels.com/photo/portrait-black-african-ethnicity-person-9494/).
-
-
 ## Copyright & License
 
 Copyright (C) 2015-2017 - Released under the MIT License.
