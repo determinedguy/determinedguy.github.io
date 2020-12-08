@@ -1,7 +1,9 @@
-# Default Info
+
+# Athal's Blog
 
 Athal's personal blog built with [Bootstrap](http://getbootstrap.com/), powered by [Jekyll](http://jekyllrb.com/) and
 freely hosted in [Github pages](https://pages.github.com/).
+
 Based on [Sustain](https://github.com/jekyller/sustain) theme.
 
 #### Author
