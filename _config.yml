@@ -7,7 +7,7 @@ first_name: Muhammad
 middle_name:
 last_name: Athallah
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Reach me through e-mail for faster response.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Muhammad Athallah's personal website.
 footer_text: >
@@ -264,8 +264,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Athallah]
+  first_name: [Muhammad, M.]
 
   style: apa
   locale: en
